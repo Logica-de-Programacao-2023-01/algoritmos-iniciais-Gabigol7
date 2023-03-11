@@ -1,0 +1,4 @@
+- Irá soliciar a base da potência
+- Irá solicitar o expoente da potência
+- Irá elevar a base da potência ao expoente desejado
+- Irá escrever o resultado
